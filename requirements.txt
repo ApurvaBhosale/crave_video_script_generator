@@ -2,4 +2,5 @@ streamlit
 PyMuPDF
 ddgs
 python-docx
+langchain-community
 hdbcli
