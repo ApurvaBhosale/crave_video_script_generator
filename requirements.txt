@@ -4,3 +4,4 @@ ddgs
 python-docx
 langchain-community
 hdbcli
+langchain-openai
