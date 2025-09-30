@@ -2,3 +2,4 @@ streamlit
 PyMuPDF
 ddgs
 python-docx
+hdbcli
